@@ -2,5 +2,4 @@ numpy==1.21.2
 pytesseract==0.3.8
 scikit_image==0.18.3
 scipy==1.7.3
-streamlit
-opencv
+opencv==3.1
