@@ -1,6 +1,7 @@
 numpy==1.21.2
 pytesseract==0.3.8
-tesseract
+tesseract-ocr
+tesseract-ocr-por
 scikit_image==0.18.3
 scipy==1.7.3
 opencv-python-headless
