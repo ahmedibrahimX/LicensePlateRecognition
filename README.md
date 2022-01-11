@@ -16,11 +16,17 @@
 
 ## Live Demo :man_technologist:
 
+
+
 - *Click [**<u>here</u>**](https://share.streamlit.io/ahmedibrahimabdellatif/licenseplaterecognition/main/main.py) to see a live demo of the project*
+
+  
 
 ***
 
 ## Pipeline
+
+> Our implementation was first strongly inspired by this research paper ([A New Approach for License Plate Detection and Localization Between Reality and Applicability](https://www.researchgate.net/publication/283758434_A_New_Approach_for_License_Plate_Detection_and_Localization_Between_Reality_and_Applicability)). However, we have read other papers and started to mix between the approaches that we have found until we decided on the following pipeline.
 
 ### Preprocessing:
 
